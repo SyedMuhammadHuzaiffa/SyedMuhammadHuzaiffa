@@ -1,3 +1,6 @@
+## 1. Complete `README.md`
+
+```md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:00f5ff&text=Syed%20Muhammad%20Huzaifa&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Soon-to-Graduate%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
@@ -140,8 +143,8 @@ I am focused on growing as a Full Stack Developer by building practical projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadHuzaiffa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadHuzaiffa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedMuhammadHuzaiffa&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedMuhammadHuzaiffa&theme=tokyonight" />
 
 <br/><br/>
 
@@ -150,6 +153,20 @@ I am focused on growing as a Full Stack Developer by building practical projects
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadHuzaiffa&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=7C3AED&area=true&hide_border=true" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,50:00f5ff,100:7c3aed" />
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -188,3 +205,40 @@ I am focused on growing as a Full Stack Developer by building practical projects
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,45:0f172a,100:00f5ff" />
 
 </div>
+```
+
+## 2. Complete `.github/workflows/snake.yml`
+
+```yml
+name: Generate Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SyedMuhammadHuzaiffa
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
