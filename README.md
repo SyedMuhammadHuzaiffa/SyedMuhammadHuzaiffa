@@ -1,9 +1,8 @@
-```md
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:00f5ff&text=Syed%20Muhammad%20Huzaifa&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Soon-to-Graduate%20Software%20Engineer%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:00f5ff&text=Syed%20Muhammad%20Huzaifa&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Soon-to-Graduate%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Soon-to-Graduate+Software+Engineer+from+Karachi%2C+Pakistan;Aspiring+Full+Stack+Developer+%7C+Spring+Boot+%7C+React;Blockchain+%7C+Smart+Contracts+%7C+Firebase;24+days+to+graduation+%7C+5+exams+left)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Soon-to-Graduate+Software+Engineer+from+Karachi%2C+Pakistan;Full+Stack+Developer+in+Progress+%7C+Spring+Boot+%7C+React;Blockchain+%7C+Smart+Contracts+%7C+Firebase;Building+secure%2C+scalable%2C+real-world+systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,9 +21,8 @@ const huzaifa = {
   name: "Syed Muhammad Huzaifa",
   location: "Karachi, Pakistan",
   role: "Soon-to-Graduate Software Engineer",
-  path: "Aspiring Full Stack Developer",
-  graduation: "24 days away",
-  examsRemaining: 5,
+  path: "Full Stack Developer in Progress",
+  status: "Final semester",
   interests: [
     "Full Stack Development",
     "Spring Boot",
@@ -36,8 +34,8 @@ const huzaifa = {
 };
 ```
 
-I am a soon-to-graduate Software Engineer from Karachi, Pakistan, currently days away from graduation.  
-I am focused on growing as an aspiring Full Stack Developer by building practical projects, strengthening my fundamentals, and exploring secure, modern software systems.
+I am a soon-to-graduate Software Engineer from Karachi, Pakistan, currently completing my final semester.  
+I am focused on growing as a Full Stack Developer by building practical projects, strengthening my fundamentals, and exploring secure, modern software systems.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,50:00f5ff,100:7c3aed" />
 
@@ -100,8 +98,8 @@ I am focused on growing as an aspiring Full Stack Developer by building practica
       <p>Learning secure development practices, authentication flows, and application-level threat awareness.</p>
     </td>
     <td width="50%">
-      <h3>Graduation Sprint</h3>
-      <p>Finishing my final 5 exams, graduating in 24 days, and preparing for the next step as an aspiring Full Stack Developer.</p>
+      <h3>Professional Growth</h3>
+      <p>Completing my final semester and preparing for the next step as a Full Stack Developer in progress.</p>
     </td>
   </tr>
 </table>
@@ -120,11 +118,11 @@ I am focused on growing as an aspiring Full Stack Developer by building practica
         A secure certificate verification platform designed to reduce fraud and make academic credential validation fast, transparent, and tamper-resistant.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/QR_Verification-0D1117?style=for-the-badge&logo=qrcode&logoColor=00F5FF" />
+        <img src="https://img.shields.io/badge/QR_Verification-0D1117?style=for-the-badge&logo=googlelens&logoColor=00F5FF" />
         <img src="https://img.shields.io/badge/IPFS-0D1117?style=for-the-badge&logo=ipfs&logoColor=65C2CB" />
         <img src="https://img.shields.io/badge/Smart_Contracts-0D1117?style=for-the-badge&logo=solidity&logoColor=ffffff" />
         <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-        <img src="https://img.shields.io/badge/Merkle_Tree-0D1117?style=for-the-badge&logo=treehouse&logoColor=00F5FF" />
+        <img src="https://img.shields.io/badge/Merkle_Tree-0D1117?style=for-the-badge&logo=gitbook&logoColor=00F5FF" />
         <img src="https://img.shields.io/badge/Polygon-0D1117?style=for-the-badge&logo=polygon&logoColor=8247E5" />
       </p>
       <p>
@@ -204,4 +202,3 @@ I am focused on growing as an aspiring Full Stack Developer by building practica
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,45:0f172a,100:00f5ff" />
 
 </div>
-```
