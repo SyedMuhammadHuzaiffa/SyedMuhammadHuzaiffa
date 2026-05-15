@@ -140,30 +140,16 @@ I am focused on growing as a Full Stack Developer by building practical projects
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadHuzaiffa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&ring_color=7C3AED" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadHuzaiffa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SyedMuhammadHuzaiffa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadHuzaiffa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SyedMuhammadHuzaiffa&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" />
+<img width="70%" src="https://streak-stats.demolab.com?user=SyedMuhammadHuzaiffa&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadHuzaiffa&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=7C3AED&area=true&hide_border=true" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,50:00f5ff,100:7c3aed" />
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadHuzaiffa&bg_color=0D1117&color=C9D1D9&line=00F5FF&point=7C3AED&area=true&hide_border=true" />
 
 </div>
 
