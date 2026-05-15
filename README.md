@@ -36,7 +36,7 @@ const huzaifa = {
 };
 ```
 
-I am a soon-to-graduate Software Engineer from Karachi, Pakistan, currently 24 days away from graduation with 5 exams left.  
+I am a soon-to-graduate Software Engineer from Karachi, Pakistan, currently days away from graduation.  
 I am focused on growing as an aspiring Full Stack Developer by building practical projects, strengthening my fundamentals, and exploring secure, modern software systems.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,50:00f5ff,100:7c3aed" />
