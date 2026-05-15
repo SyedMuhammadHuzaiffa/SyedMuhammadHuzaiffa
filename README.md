@@ -1,9 +1,9 @@
 ```md
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:00f5ff&text=Syed%20Muhammad%20Huzaifa&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20Builder%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:00f5ff&text=Syed%20Muhammad%20Huzaifa&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Soon-to-Graduate%20Software%20Engineer%20%7C%20Aspiring%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+from+Karachi%2C+Pakistan;Full+Stack+Development+%7C+Spring+Boot+%7C+React;Blockchain+%7C+Smart+Contracts+%7C+Firebase;Building+secure%2C+scalable%2C+real-world+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Soon-to-Graduate+Software+Engineer+from+Karachi%2C+Pakistan;Aspiring+Full+Stack+Developer+%7C+Spring+Boot+%7C+React;Blockchain+%7C+Smart+Contracts+%7C+Firebase;24+days+to+graduation+%7C+5+exams+left)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,8 +21,10 @@
 const huzaifa = {
   name: "Syed Muhammad Huzaifa",
   location: "Karachi, Pakistan",
-  role: "Software Engineering Student",
-  current: "WordPress Developer Intern",
+  role: "Soon-to-Graduate Software Engineer",
+  path: "Aspiring Full Stack Developer",
+  graduation: "24 days away",
+  examsRemaining: 5,
   interests: [
     "Full Stack Development",
     "Spring Boot",
@@ -30,12 +32,12 @@ const huzaifa = {
     "Blockchain",
     "Cybersecurity"
   ],
-  mindset: "Build clean systems. Solve real problems. Keep learning."
+  mindset: "Learn deeply. Build honestly. Improve with every project."
 };
 ```
 
-I am a Software Engineering student focused on building practical, secure, and scalable applications.  
-My work sits at the intersection of full stack engineering, blockchain systems, and cybersecurity-minded development.
+I am a soon-to-graduate Software Engineer from Karachi, Pakistan, currently 24 days away from graduation with 5 exams left.  
+I am focused on growing as an aspiring Full Stack Developer by building practical projects, strengthening my fundamentals, and exploring secure, modern software systems.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,50:00f5ff,100:7c3aed" />
 
@@ -85,7 +87,7 @@ My work sits at the intersection of full stack engineering, blockchain systems, 
   <tr>
     <td width="50%">
       <h3>Engineering</h3>
-      <p>Building full stack applications with clean architecture, secure APIs, and polished user experiences.</p>
+      <p>Building stronger full stack fundamentals through real projects, clean code, and practical problem-solving.</p>
     </td>
     <td width="50%">
       <h3>Blockchain</h3>
@@ -98,8 +100,8 @@ My work sits at the intersection of full stack engineering, blockchain systems, 
       <p>Learning secure development practices, authentication flows, and application-level threat awareness.</p>
     </td>
     <td width="50%">
-      <h3>Professional Growth</h3>
-      <p>Working as a WordPress Developer Intern while sharpening modern software engineering fundamentals.</p>
+      <h3>Graduation Sprint</h3>
+      <p>Finishing my final 5 exams, graduating in 24 days, and preparing for the next step as an aspiring Full Stack Developer.</p>
     </td>
   </tr>
 </table>
@@ -185,7 +187,7 @@ My work sits at the intersection of full stack engineering, blockchain systems, 
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Open+to+collaboration+on+full+stack%2C+blockchain%2C+and+security-focused+projects." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Open+to+learning%2C+collaboration%2C+and+building+real-world+software+projects." />
 
 </div>
 
@@ -193,7 +195,7 @@ My work sits at the intersection of full stack engineering, blockchain systems, 
 
 <div align="center">
 
-### `> Code with purpose. Secure what matters. Keep shipping.`
+### `> Learn with focus. Build with care. Keep improving.`
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
