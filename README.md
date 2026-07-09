@@ -21,7 +21,7 @@ const huzaifa = {
   name: "Syed Muhammad Huzaifa",
   location: "Karachi, Pakistan",
   education: "BS Software Engineering, FAST NUCES Karachi",
-  status: "Completed final exams in 2026",
+  status: "Completed in 2026",
   focus: ["Java", "Spring Boot", "MERN", "React Native"],
   interests: [
     "Backend Development",
