@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=2026+Software+Engineering+Graduate+%E2%80%A2+Executive+%E2%80%93+IT+at+Artistic+Milliners)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=2026%20Software%20Engineering%20Graduate%20%7C%20Executive%20-%20IT%20at%20Artistic%20Milliners" alt="2026 Software Engineering Graduate | Executive - IT at Artistic Milliners" />
 
 <br/>
 
