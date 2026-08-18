@@ -214,3 +214,12 @@ The fallback architecture allows core demo workflows to remain functional even w
     <img src="https://img.shields.io/badge/View_My_Portfolio-00F5FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=020617" alt="View My Portfolio" />
   </a>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
