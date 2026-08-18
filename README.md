@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=2026%20Software%20Engineering%20Graduate%20%7C%20Executive%20-%20IT%20at%20Artistic%20Milliners" alt="2026 Software Engineering Graduate | Executive - IT at Artistic Milliners" />
+<p align="center">
+  <strong>2026 Software Engineering Graduate</strong>
+  &nbsp;|&nbsp;
+  <strong>Executive - IT at Artistic Milliners</strong>
+</p>
 
 <br/>
 
