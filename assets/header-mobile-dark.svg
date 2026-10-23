@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="464" viewBox="0 0 340 464" role="img">
+<defs>
+  <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.9" fill="#ffffff" fill-opacity="0.045"/>
+  </pattern>
+  <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+    <path d="M0 0.8 L7 4 L0 7.2" fill="none" stroke="#8f8f97" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+<rect x="0.5" y="0.5" width="339" height="463" rx="14" fill="#0e0e10" stroke="#26262a"/>
+<rect x="1" y="1" width="338" height="462" rx="14" fill="url(#dots)"/>
+<path d="M12 21 V12 H21" fill="none" stroke="#4a4a52" stroke-width="1"/>
+<path d="M328 21 V12 H319" fill="none" stroke="#4a4a52" stroke-width="1"/>
+<path d="M12 443 V452 H21" fill="none" stroke="#4a4a52" stroke-width="1"/>
+<path d="M328 443 V452 H319" fill="none" stroke="#4a4a52" stroke-width="1"/>
+<text x="20" y="36" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.4" fill="#8f8f97">BACKEND · ENTERPRISE APPS</text>
+<text x="20" y="70" text-anchor="start" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="650" letter-spacing="-0.4" fill="#f4f4f5">Syed Muhammad Huzaifa</text>
+<text x="20" y="95" text-anchor="start" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="400" letter-spacing="0" fill="#c8c8cd">Software Engineer · Karachi, Pakistan</text>
+<text x="20" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#8f8f97">TARGET ARCHITECTURE <tspan fill="#4edea3">· JAVA FOCUS</tspan></text>
+<rect x="20" y="146" width="300" height="50" rx="10" fill="#131315" stroke="#4a4a52" stroke-width="1"/>
+<text x="36" y="176" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.6" fill="#8f8f97">CLIENT</text>
+<text x="304" y="177" text-anchor="end" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="550" letter-spacing="0" fill="#c8c8cd">React / Flutter</text>
+<rect x="20" y="340" width="300" height="50" rx="10" fill="#131315" stroke="#4a4a52" stroke-width="1"/>
+<text x="36" y="370" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.6" fill="#8f8f97">DATA</text>
+<text x="304" y="371" text-anchor="end" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="550" letter-spacing="0" fill="#c8c8cd">SQL / Oracle</text>
+<rect x="20" y="220" width="300" height="96" rx="10" fill="none" stroke="#4edea3" stroke-width="3" opacity="0.45" filter="url(#glow)"/>
+<rect x="20" y="220" width="300" height="96" rx="10" fill="#131315"/>
+<rect x="20" y="220" width="300" height="96" rx="10" fill="#4edea3" fill-opacity="0.07" stroke="#4edea3" stroke-width="1.5"/>
+<text x="170.0" y="248" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="1.8" fill="#4edea3">JAVA API</text>
+<text x="170.0" y="277" text-anchor="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="650" letter-spacing="0" fill="#f4f4f5">Spring Boot</text>
+<circle cx="67.0" cy="295.7" r="3" fill="#4edea3"/>
+<text x="76.0" y="300" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="0.8" fill="#4edea3">CURRENT ENGINEERING FOCUS</text>
+<line x1="170.0" y1="200" x2="170.0" y2="215" stroke="#8f8f97" stroke-width="1.2" marker-end="url(#arrow)"/>
+<circle cx="170.0" cy="206.0" r="2" fill="#4edea3"/>
+<line x1="170.0" y1="320" x2="170.0" y2="335" stroke="#8f8f97" stroke-width="1.2" marker-end="url(#arrow)"/>
+<circle cx="170.0" cy="326.0" r="2" fill="#4edea3"/>
+<text x="20" y="424" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#8f8f97">AT ARTISTIC MILLINERS</text>
+<text x="20" y="444" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="0.4" fill="#c8c8cd">ORACLE SQL · PL/SQL · APEX · FLUTTER</text>
+</svg>
