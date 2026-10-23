@@ -1,0 +1,42 @@
+name: Generate Engineering Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 03:00 UTC (08:00 PKT) — kept apart from the 3D contributions run to avoid conflicting pushes
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          # Scope-less classic PAT: public data only. Commits use the built-in GITHUB_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "chore(profile): update engineering activity"
+          filename: metrics/engineering-activity.svg
+          template: classic
+          config_display: regular
+          config_timezone: Asia/Karachi
+
+          base: activity, repositories
+          repositories_skipped: SyedMuhammadHuzaiffa
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
+          plugin_languages_ignored: html, css, scss, jupyter notebook, makefile, dockerfile, procfile, batchfile
