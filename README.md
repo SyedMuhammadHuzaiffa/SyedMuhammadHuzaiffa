@@ -1,225 +1,80 @@
-<h1 align="center">Syed Muhammad Huzaifa</h1>
+# Syed Muhammad Huzaifa
 
-<h3 align="center">Software Engineer | Backend, Cloud & Enterprise Applications</h3>
+**Software Engineer · Backend Engineering & Enterprise Applications**
 
-<p align="center">
-  <strong>2026 Software Engineering Graduate | Executive - IT at Artistic Milliners</strong>
-</p>
+Karachi, Pakistan · BS Software Engineering, FAST-NUCES (2026)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedMuhammadHuzaiffa&amp;style=for-the-badge&amp;color=00f5ff&amp;label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SyedMuhammadHuzaiffa?style=for-the-badge&amp;logo=github&amp;color=00f5ff&amp;labelColor=0d1117" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <a href="https://huzaiffadev.com">
-    <img src="https://img.shields.io/badge/Portfolio-huzaiffadev.com-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=00F5FF" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/syed-muhammad-huzaifa-9a61bb237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SyedMuhammadHuzaiffa">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff" alt="GitHub" />
-  </a>
-</p>
+[Portfolio](https://huzaiffadev.com) · [LinkedIn](https://www.linkedin.com/in/syed-muhammad-huzaifa-9a61bb237/) · [Résumé](https://huzaiffadev.com/resume/Syed-Huzaifa-Resume.pdf) · [Email](mailto:syed.huzaiffaxd@gmail.com)
 
 ---
 
-## About Me
+### About me
 
-```js
-const huzaifa = {
-  role: "Executive – IT at Artistic Milliners",
-  location: "Karachi, Pakistan",
-  education: "BS Software Engineering — FAST-NUCES Karachi (2026)",
-  focus: "Backend, cloud, and enterprise application development",
+I'm a software engineer working across enterprise applications, backend services, databases, and mobile development.
 
-  currentlyWorkingWith: [
-    "Oracle SQL",
-    "PL/SQL",
-    "Oracle APEX",
-    "REST APIs",
-    "Flutter",
-    "Firebase"
-  ],
+Currently, I'm an **Executive – IT at Artistic Milliners**, working with Oracle-backed enterprise systems, SQL/PLSQL, Oracle APEX, REST API integrations, and Flutter applications for internal business workflows.
 
-  growingInto: [
-    "Java",
-    "Spring Boot",
-    "System Design",
-    "Docker",
-    "AWS",
-    "CI/CD"
-  ]
-};
-```
+My engineering interests lie in building reliable APIs, designing maintainable systems, and understanding how applications work end to end—from database architecture to production-facing interfaces.
 
-I am a **Software Engineering graduate from FAST-NUCES Karachi** focused on building practical backend, cloud, enterprise, and mobile applications.
+I'm actively developing my specialization in **Java and Spring Boot backend engineering**, alongside database design, containerization, and cloud infrastructure.
 
-Since July 2026, I have been working as an **Executive – IT at Artistic Milliners**, gaining professional exposure to Oracle and enterprise systems, internal applications, REST APIs, mobile development, Firebase, and AI-assisted application workflows.
+### Selected engineering work
 
-I also bring previous freelance web-development experience.
+#### [Blockchain-Based Certificate Verification System](https://huzaiffadev.com/projects/blockchain-certificate-verification-system)
 
-My long-term engineering direction is centered on **Java and Spring Boot, relational databases, well-designed APIs, cloud infrastructure, system design, and dependable software delivery**.
+*React · Firebase Functions · Solidity · Polygon Amoy · IPFS*
 
-Cybersecurity is a complementary engineering interest that strengthens how I think about secure software systems, while blockchain is an area I have applied through project work.
+A team-developed academic credential platform supporting certificate issuance, verification, revocation, and Merkle-tree batch anchoring.
 
----
+Designed to make credentials independently verifiable while supporting institutional issuance and administrative workflows.
 
-## Engineering Toolkit
+[Case Study](https://huzaiffadev.com/projects/blockchain-certificate-verification-system) · [Live Demo](https://fyp-blockchain-rough.vercel.app) · [Source Code](https://github.com/SyedMuhammadHuzaiffa/BlockChain-Based-Certificate-Generation-Validation-and-Revocation-System-FYP)
 
-### Backend & APIs
+#### [ManuFlow AI — Manufacturing Decision Copilot](https://huzaiffadev.com/projects/ai-manufacturing-decision-copilot)
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F5FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+*Next.js · TypeScript · MongoDB · Google Gemini · Create ML*
 
-### Data & Enterprise
+A Next.js command centre combining factory analytics, a tabular delay classifier trained in Apple Create ML, and a Gemini copilot.
 
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+MongoDB, Gemini and the Core ML service are each optional, with deterministic fallbacks, so the demo stays usable on synthetic data.
 
-### Frontend & Mobile
+[Case Study](https://huzaiffadev.com/projects/ai-manufacturing-decision-copilot) · [Live Demo](https://ai-manufacturing-decision-copilot.vercel.app) · [Source Code](https://github.com/SyedMuhammadHuzaiffa/ai-manufacturing-decision-copilot)
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+#### [Task Manager — Docker & CI Engineering](https://huzaiffadev.com/projects/task-manager-spring-boot-react-devops)
 
-### Cloud & Delivery
+*Docker · Docker Compose · GitHub Actions · Spring Boot · PostgreSQL*
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=00F5FF)
-![AWS Fundamentals](https://img.shields.io/badge/AWS_Fundamentals-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+DevOps work on a fork of an open-source Spring Boot and React application.
 
-### Blockchain Project Work
+My contributions include Dockerfiles, Docker Compose with health-checked PostgreSQL, and a GitHub Actions CI workflow running Maven tests.
 
-![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=ffffff)
-![Hardhat](https://img.shields.io/badge/Hardhat-0D1117?style=for-the-badge&logo=hardhat&logoColor=FFF100)
-![ethers.js](https://img.shields.io/badge/ethers.js-0D1117?style=for-the-badge&logo=ethereum&logoColor=627EEA)
-![Polygon](https://img.shields.io/badge/Polygon-0D1117?style=for-the-badge&logo=polygon&logoColor=8247E5)
-![IPFS](https://img.shields.io/badge/IPFS-0D1117?style=for-the-badge&logo=ipfs&logoColor=65C2CB)
+Original application by [FatimaZahraHASBI](https://github.com/FatimaZahraHASBI).
 
----
+[Case Study](https://huzaiffadev.com/projects/task-manager-spring-boot-react-devops) · [Fork on GitHub](https://github.com/SyedMuhammadHuzaiffa/task-manager-springboot-reactjs)
 
-## Current Engineering Path
+Explore more projects and engineering case studies on my **[portfolio](https://huzaiffadev.com)**.
 
-I am deliberately deepening my foundation in **Java / Spring Boot**, **SQL and database engineering**, **Oracle / PL/SQL**, **Linux**, **Docker**, **AWS**, **CI/CD**, and **system design**.
+### Technical experience
 
-Alongside this, I continue building with **Flutter** and developing **cybersecurity fundamentals** that strengthen secure software design and delivery.
+| Area | Technologies |
+|---|---|
+| Backend & APIs | REST APIs, Node.js, Express, Firebase Functions |
+| Databases & Enterprise | Oracle SQL, PL/SQL, Oracle APEX, MySQL, MongoDB, SQLite |
+| Web Development | React, Next.js, TypeScript, JavaScript |
+| Mobile Development | Flutter, Dart, React Native, Expo |
+| Blockchain | Solidity, Hardhat, ethers.js, Polygon, IPFS |
+| Development & Delivery | Git, Docker, GitHub Actions |
 
----
+### Currently focused on
 
-# Featured Projects
+**Java & Spring Boot** — Deepening backend development, API architecture, and application design.
 
-## 🏆 [Blockchain-Based Certificate Generation, Validation & Revocation System](https://github.com/SyedMuhammadHuzaiffa/BlockChain-Based-Certificate-Generation-Validation-and-Revocation-System-FYP)
+**Databases & System Design** — Strengthening PostgreSQL, relational data modeling, performance considerations, and system reliability.
 
-**Final Year Project**
+**Cloud & DevOps** — Expanding practical knowledge of Linux, Docker, CI/CD, and cloud infrastructure.
 
-A full-stack certificate platform supporting:
+### Let's connect
 
-- Role-based certificate issuance
-- Public QR-based verification
-- PDF certificate generation
-- Certificate revocation
-- Individual issuance
-- Bulk certificate issuance
-- Blockchain-backed integrity verification
-- Merkle-tree batch anchoring
+I'm interested in backend engineering, software engineering opportunities, technical collaboration, and selected freelance projects.
 
-Firebase Functions coordinate privileged workflows, while Solidity smart contracts deployed on **Polygon Amoy** anchor individual certificate hashes and Merkle-tree batch roots.
-
-**Pinata / IPFS** is used for off-chain metadata storage.
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=for-the-badge&logo=solidity&logoColor=ffffff)
-![Hardhat](https://img.shields.io/badge/Hardhat-0D1117?style=for-the-badge&logo=hardhat&logoColor=FFF100)
-![Polygon](https://img.shields.io/badge/Polygon-0D1117?style=for-the-badge&logo=polygon&logoColor=8247E5)
-![IPFS](https://img.shields.io/badge/IPFS%20%2F%20Pinata-0D1117?style=for-the-badge&logo=ipfs&logoColor=65C2CB)
-
----
-
-## [Task Manager — Spring Boot, React & PostgreSQL](https://github.com/SyedMuhammadHuzaiffa/task-manager-springboot-reactjs)
-
-A full-stack task-management application built around a **Java 21 / Spring Boot REST API** and React frontend.
-
-The project includes:
-
-- Spring Boot REST API
-- PostgreSQL persistence
-- Flyway database migrations
-- OpenAPI / Swagger documentation
-- Automated tests
-- Docker Compose
-- Nginx reverse proxying
-- GitHub Actions CI
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F5FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-
----
-
-## [ManuFlow AI — Manufacturing Decision Copilot](https://github.com/SyedMuhammadHuzaiffa/ai-manufacturing-decision-copilot)
-
-A Next.js decision-support application for exploring **production-order delay risk, operational analytics, and corrective-action guidance**.
-
-The application combines:
-
-- Next.js API routes
-- TypeScript
-- MongoDB integration
-- Gemini integration
-- Optional Core ML inference bridge
-- Deterministic fallback behavior
-- Operational analytics
-- Delay-risk prediction workflows
-
-The fallback architecture allows core demo workflows to remain functional even when optional external AI or data services are unavailable.
-
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedMuhammadHuzaiffa&amp;theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedMuhammadHuzaiffa&amp;theme=tokyonight" alt="Repositories per Language" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMuhammadHuzaiffa&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=00F5FF&amp;point=7C3AED&amp;area=true&amp;hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-<h3 align="center">Building backend systems that are reliable, scalable, and secure.</h3>
-
-<p align="center">
-  <a href="https://huzaiffadev.com">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-00F5FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=020617" alt="View My Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
+**[Portfolio](https://huzaiffadev.com)** · **[LinkedIn](https://www.linkedin.com/in/syed-muhammad-huzaifa-9a61bb237/)** · **[Email](mailto:syed.huzaiffaxd@gmail.com)**
