@@ -78,3 +78,11 @@ Explore more projects and engineering case studies on my **[portfolio](https://h
 I'm interested in backend engineering, software engineering opportunities, technical collaboration, and selected freelance projects.
 
 **[Portfolio](https://huzaiffadev.com)** · **[LinkedIn](https://www.linkedin.com/in/syed-muhammad-huzaifa-9a61bb237/)** · **[Email](mailto:syed.huzaiffaxd@gmail.com)**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
