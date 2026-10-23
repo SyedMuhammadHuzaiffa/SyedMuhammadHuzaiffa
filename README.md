@@ -79,10 +79,14 @@ I'm interested in backend engineering, software engineering opportunities, techn
 
 **[Portfolio](https://huzaiffadev.com)** · **[LinkedIn](https://www.linkedin.com/in/syed-muhammad-huzaifa-9a61bb237/)** · **[Email](mailto:syed.huzaiffaxd@gmail.com)**
 
+---
+
+### Engineering activity
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SyedMuhammadHuzaiffa/SyedMuhammadHuzaiffa/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D skyline of Syed Huzaifa's GitHub contributions over the past year, with total contributions, stars, forks, an activity radar across commits, issues, pull requests, reviews and repositories, and a breakdown of languages by contribution." />
+</p>
+
+<p align="center">
+  <img src="metrics/engineering-activity.svg" width="480" alt="GitHub activity summary for Syed Huzaifa: commits, pull requests opened and reviewed, issues and issue comments, followed by public repository statistics including repository count, stargazers, watchers and disk usage." />
 </p>
