@@ -1,14 +1,17 @@
-<picture>
-  <source media="(max-width: 540px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.svg" />
-  <source media="(max-width: 540px)" srcset="assets/header-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Syed Muhammad Huzaifa — Software Engineer, Karachi, Pakistan. Backend engineering and enterprise applications. Target architecture for my Java backend focus: Client (React / Flutter) connects to a Java API (Spring Boot, my current engineering focus), which connects to Data (SQL / Oracle). At Artistic Milliners I work with Oracle SQL, PL/SQL, APEX and Flutter." />
-</picture>
+## Syed Muhammad Huzaifa
 
-<p align="center">
-  <sub>BS Software Engineering, FAST-NUCES (2026)</sub><br />
-  <a href="https://huzaiffadev.com">Portfolio</a> · <a href="https://www.linkedin.com/in/syed-muhammad-huzaifa-9a61bb237/">LinkedIn</a> · <a href="https://huzaiffadev.com/resume/Syed-Huzaifa-Resume.pdf">Résumé</a> · <a href="mailto:syed.huzaiffaxd@gmail.com">Email</a>
+**Software Engineer** · Backend Engineering & Enterprise Applications<br />Karachi, Pakistan · BS Software Engineering, FAST-NUCES (2026)
+
+<p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/strip-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="assets/strip-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/strip-dark.svg" />
+  <img src="assets/strip-light.svg" width="760" alt="Architecture strip for my Java backend focus (self-directed learning): Client (React / Flutter) connects to a Java API (Spring Boot), which connects to Data (SQL / Oracle)." />
+</picture>
 </p>
+
+[Portfolio](https://huzaiffadev.com) · [LinkedIn](https://www.linkedin.com/in/syed-muhammad-huzaifa-9a61bb237/) · [Résumé](https://huzaiffadev.com/resume/Syed-Huzaifa-Resume.pdf) · [Email](mailto:syed.huzaiffaxd@gmail.com)
 
 ### About me
 
@@ -71,4 +74,7 @@ I'm interested in backend engineering, software engineering opportunities, techn
 
 <br />
 
-<img src="assets/flow-field.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/flow-field-static.svg" />
+  <img src="assets/flow-field-animated.svg" width="100%" alt="" />
+</picture>
