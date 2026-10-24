@@ -4,8 +4,8 @@
 
 <p>
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/strip-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/strip-mobile-light.svg" />
+  <source media="(max-width: 100%) and (prefers-color-scheme: dark)" srcset="assets/strip-mobile-dark.svg" />
+  <source media="(max-width: 100%)" srcset="assets/strip-mobile-light.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="assets/strip-dark.svg" />
   <img src="assets/strip-light.svg" width="760" alt="Architecture strip for my Java backend focus (self-directed learning): Client (React / Flutter) connects to a Java API (Spring Boot), which connects to Data (SQL / Oracle)." />
 </picture>
